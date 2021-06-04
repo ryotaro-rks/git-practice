@@ -1,5 +1,6 @@
 package com.example;
 
-public class Car {
+import java.util.ArrayList;
 
+public class Car extends ArrayList{
 }
