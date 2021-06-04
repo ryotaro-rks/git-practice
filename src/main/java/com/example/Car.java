@@ -1,4 +1,8 @@
 package com.example;
 
-public class Car extends Object {
+
+import java.util.ArrayList;
+
+public class Car extends ArrayList{
+	private int speed;
 }
